@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>E:/Trabalhos Top/Trabalho 3d Proj/EDJD_IP3D_1920_TPF1_CarlosPassos_TiagoOliverira_a16924_a16931/codigo/Content/bulletTank.fbx</File>
+    <File>E:/Trabalhos Top/Trabalho 3d Proj/EDJD_IP3D_1920_TPF1_CarlosPassos_TiagoOliverira_a16924_a16931/codigo/Content/Cube.X</File>
+    <File>E:/Trabalhos Top/Trabalho 3d Proj/EDJD_IP3D_1920_TPF1_CarlosPassos_TiagoOliverira_a16924_a16931/codigo/Content/map.jpg</File>
+    <File>E:/Trabalhos Top/Trabalho 3d Proj/EDJD_IP3D_1920_TPF1_CarlosPassos_TiagoOliverira_a16924_a16931/codigo/Content/MapaAl.jpg</File>
+    <File>E:/Trabalhos Top/Trabalho 3d Proj/EDJD_IP3D_1920_TPF1_CarlosPassos_TiagoOliverira_a16924_a16931/codigo/Content/pedra.jpg</File>
+    <File>E:/Trabalhos Top/Trabalho 3d Proj/EDJD_IP3D_1920_TPF1_CarlosPassos_TiagoOliverira_a16924_a16931/codigo/Content/static.jpg</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
